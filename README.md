@@ -14,10 +14,10 @@ Passionate about leveraging technology to drive innovation and solve real-world 
 
 ### Target Corporation, Bangalore
 #### Senior Software Engineer - Lead (05/2022 - Present)
-🚀 Led the development of Fully Automated Managed Database Services, transforming database maintenance with Java, Spring Boot, React, and Kafka.
+<!--🚀 Led the development of Fully Automated Managed Database Services, transforming database maintenance with Java, Spring Boot, React, and Kafka.
 🛠️ Oversaw end-to-end architecture, design, and implementation of our Managed Database as a Service (MDaaS) solution, ensuring scalability and reliability.
 👥 Mentored and empowered a team of junior engineers, fostering a collaborative environment and delivering a high-quality product.
-🎯 Collaborated closely with product management, driving agile processes to meet accelerated launch deadlines.
+🎯 Collaborated closely with product management, driving agile processes to meet accelerated launch deadlines. -->
 
 ### JP Morgan & Chase, Bangalore
 #### Senior Software Engineer (11/2016 - 05/2022)
