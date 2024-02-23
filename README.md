@@ -37,8 +37,7 @@ Passionate about leveraging technology to drive innovation and solve real-world 
 ## Education
 
 - **Bachelor of Engineering in Computer Science**
-  - Sri Krishna Institute of Technology
-  - Graduated: 07/2011
+  - Sri Krishna Institute of Technology, Graduated: 07/2011
 
 ---
 
